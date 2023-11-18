@@ -2,6 +2,8 @@
 
 ###
 2023/11/18
+隨機數猜數字遊戲 v.1.2 增加指定範圍時偵測 不能輸入數字以外的值 by guess_number.py
+
 隨機數猜數字遊戲 random/while/if 可指定數字範圍 by guess_number.py
 
 while 應用 讓使用者輸入3次密碼 輸入錯誤3次會跟他說鎖帳號 by password_input_3times.py
