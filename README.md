@@ -1,6 +1,8 @@
 #存活報告
 
 ###
+2023/11/21
+計算100萬筆留言的平均字數 by avg_len_of_reviews.py
 2023/11/20
 斐波那契數列的前10個數 by Fibonacci_sequence.py
 txt檔只讀取100筆 並只印出前2筆(經實測於100萬筆資料) by read_txt100.py
