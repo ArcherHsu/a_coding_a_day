@@ -2,6 +2,7 @@
 
 ###
 2023/11/21
+100萬筆留言ver2 更新易讀性 / 平均字數統計 / 小於100字的留言統計 /含good字眼的留言統計 by avg_len_of_reviews.py
 計算100萬筆留言的平均字數 by avg_len_of_reviews.py
 2023/11/20
 斐波那契數列的前10個數 by Fibonacci_sequence.py
