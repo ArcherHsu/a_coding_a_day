@@ -10,6 +10,7 @@ while True:
 	arr.append(n_p)
 print(arr)
 
-with open('n_p.txt','w') as f:
+with open('n_p.csv','w') as f:
+	f.write('商品,價格\n')
 	for i in arr:
-		f.write(str(i[0])+'的價格為'+str(i[1])+'\n')
+		f.write(str(i[0])+','+str(i[1])+'\n')
