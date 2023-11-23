@@ -8,5 +8,8 @@ while True:
 		break	
 	n_p = [name, price]
 	arr.append(n_p)
-
 print(arr)
+
+with open('n_p.txt','w') as f:
+	for i in arr:
+		f.write(str(i[0])+'的價格為'+str(i[1])+'\n')
